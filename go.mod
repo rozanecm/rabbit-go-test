@@ -1,4 +1,4 @@
-module rabbit-test
+module github.com/rozanecm/rabbit-go-test
 
 go 1.23.2
 
